@@ -1,5 +1,9 @@
+@import url('vars.css');
 @import url('main-content.css');
+@import url('main-content-rem.css'); 
 @import url('footer.css');
+@import url('footer-rem.css');
+@import url('media-queries.css');
 
 body {
     background-color: #000;
